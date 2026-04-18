@@ -5,6 +5,17 @@
 
 ---
 
+---
+
+# 💣 Extra
+
+```markdown id="q2k3df"
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/status-active-success)
+![Version](https://img.shields.io/badge/version-1.0-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+
 ## 🔍 Sobre o Projeto
 
 **ShadowProbe** é uma ferramenta rápida e eficiente para identificar **hosts ativos** durante a fase de *reconnaissance* em pentesting.
@@ -101,12 +112,3 @@ Mr Joker
 Se gostares do projeto, deixa uma ⭐ no repositório.
 
 
----
-
-# 💣 Extra (mete no topo para ficar 🔥)
-
-```markdown id="q2k3df"
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Status](https://img.shields.io/badge/status-active-success)
-![Version](https://img.shields.io/badge/version-1.0-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
